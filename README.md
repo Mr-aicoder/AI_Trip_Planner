@@ -1,3 +1,8 @@
+
+
+
+<img width="1842" height="527" alt="AI Trip Planner Diagram" src="https://github.com/user-attachments/assets/6ef9789f-4bad-472d-b483-4af511eab830" />
+
 ## Open CMD and run this commands
     pip install uv
 
@@ -41,6 +46,7 @@
     uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 
     streamlit run streamlit_app.py
+
 
 
 
