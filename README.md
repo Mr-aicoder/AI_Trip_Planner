@@ -84,3 +84,4 @@ The application should now be accessible in your web browser.
 🤝 Contribution
 Contributions are welcome! Please feel free to open a pull request or submit an issue on the GitHub repository.
 
+
