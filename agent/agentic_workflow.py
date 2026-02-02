@@ -8,7 +8,7 @@ from tools.place_search_tool import PlaceToolkit
 from tools.expense_calculator_tool import  CalculatorToolKit 
 from tools.currency_conversion_tool import CurrencyConverterToolkit 
 
-class GraphBuilder(): 
+class GraphBuilder():  
     def __init__(self,model_provider: str = "groq"):
         self.model_loader = ModelLoader(model_provider=model_provider)
         self.llm = self.model_loader.load_llm() 
