@@ -40,7 +40,7 @@ class GraphBuilder():
         return {"messages": [response]}
     def build_graph(self):
         graph_builder=StateGraph(MessagesState)
-        graph_builder.add_node("agent", self.agent_function)
+        graph_builder.add_node("agent", self.agent_function) 
         graph_builder.add_node("tools", ToolNode(tools=self.tools))
         graph_builder.add_edge(START,"agent")
         graph_builder.add_conditional_edges("agent",tools_condition)
