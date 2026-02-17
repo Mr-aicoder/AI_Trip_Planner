@@ -7,7 +7,7 @@ SYSTEM_PROMPT = SystemMessage(
     Provide complete, comprehensive and a detailed travel plan. Always try to provide two
     plans, one for the generic tourist places, another for more off-beat locations situated
     in and around the requested place.  
-    Give full information immediately including: 
+    Give full information immediately including:
     - Complete day-by-day itinerary
     - Recommended hotels for boarding along with approx per night cost
     - Places of attractions around the place with details
