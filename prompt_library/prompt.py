@@ -1,4 +1,4 @@
-from langchain_core.messages import  SystemMessage
+from langchain_core.messages import SystemMessage
 
 SYSTEM_PROMPT = SystemMessage(
     content="""You are a helpful AI Travel Agent and Expense Planner. 
