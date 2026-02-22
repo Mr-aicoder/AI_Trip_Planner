@@ -13,7 +13,7 @@ The agent's architecture is modular and scalable, built around a central Agentic
 Streamlit UI: The user-facing application for interacting with the agent. It sends HTTP requests and form inputs to the backend.
 
 FastAPI Backend: The main entry point for all requests. It receives user inputs, invokes the handle_requests() method to initiate the workflow, and returns the aggregated response.
-
+ 
 Config & Cross-Cutting: This layer handles essential services for the entire application, including:
 
 config.yaml: Configuration settings.
