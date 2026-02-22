@@ -6,7 +6,7 @@ The AI Trip Planner Agent acts as a central hub for all travel planning needs. A
  
 ## 📐 Architecture
 The agent's architecture is modular and scalable, built around a central Agentic Workflow.
-
+ 
 <img width="1892" height="632" alt="AI Trip D" src="https://github.com/user-attachments/assets/17377a02-b251-4dd3-87da-b6dc28f244dc" />
 
 ## Core Components
