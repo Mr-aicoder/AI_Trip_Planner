@@ -1,6 +1,6 @@
 # 🌍 AI Trip Planner Agent
 An intelligent agent designed to streamline your travel planning by leveraging a multi-tool architecture to handle complex queries, from itinerary generation to real-time expense and weather information.
-
+ 
 ## 🚀 Overview
 The AI Trip Planner Agent acts as a central hub for all travel planning needs. At its core, it uses a FastAPI backend to expose an API that can be consumed by a front-end, such as a Streamlit UI. The system's intelligence is powered by an Agentic Workflow that orchestrates various specialized tools to provide accurate and comprehensive responses.
   
